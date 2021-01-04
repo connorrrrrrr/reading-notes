@@ -5,7 +5,9 @@ Connor Curtis
 My CodeFellows reading notes.
 
 ### About Me
-My name is Connor Curtis. I am 22 years old and from Arkansas. My main hobby is playing video games. My love for video games eventually taught me about what coding was and helped me develop the fascination I have for it. :video_game:
+My name is Connor Curtis. I am 22 years old and from Arkansas. My main hobby is playing video games. My love for video games eventually taught me about what coding was and helped me develop the fascination I have for it.
+![](https://thumbs.dreamstime.com/b/professional-gamer-playing-online-games-tournaments-pc-computer-headphones-blurred-red-blue-background-196932941.jpg)
+https://thumbs.dreamstime.com/b/professional-gamer-playing-online-games-tournaments-pc-computer-headphones-blurred-red-blue-background-196932941.jpg
 
 My Github Profile is at https://github.com/connorrrrrrr
 ### Growth Mindset
