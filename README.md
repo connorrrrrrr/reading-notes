@@ -20,3 +20,7 @@ To maintain a growth mindset is to _always_ keep an **open mind**. It is very im
 
 ![](https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg)
 https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
+
+### Table of Contents
+- [Markdown Reading](markdown.md)
+- [Coders Computer](coders_computer.md)
