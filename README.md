@@ -5,7 +5,7 @@ Connor Curtis
 My CodeFellows reading notes.
 
 ### About Me
-My name is Connor Curtis. I am 22 years old and I love playing video games. My love for video games eventually taught me about what coding was and helped me develop the fascination I have for it.
+My name is Connor Curtis. I am 22 years old and I love playing video games. My love for video games eventually taught me about what coding was and helped me develop the fascination I have for it. :video_game:
 
 My Github Profile is at https://github.com/connorrrrrrr
 ### Growth Mindset
