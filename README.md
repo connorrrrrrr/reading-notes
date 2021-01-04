@@ -17,3 +17,4 @@ How to stay in a growth mindset.
 To maintain a growth mindset is to _always_ keep an **open mind**. It is very important to take all things into consideration during any process you go through. ***Whether you succeed or fail***, it is important to always _reflect_ on what you've learned depending on your outcome.
 
 ![](https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg)
+https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
