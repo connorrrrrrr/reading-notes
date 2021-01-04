@@ -14,4 +14,4 @@ How to stay in a growth mindset.
 * Continue to attempt difficult tasks.
 * Stay **_persistant_** at the result of failure.
 
-To maintain a growth mindset is to _always_ keep an **open mind**. It is very important to take all things into consideration during any process you go through. Whether you succeed or fail, it is important to always reflect on what you learned depending on your outcome.
+To maintain a growth mindset is to _always_ keep an **open mind**. It is very important to take all things into consideration during any process you go through. ***Whether you succeed or fail***, it is important to always _reflect on what you learned_ depending on your outcome.
