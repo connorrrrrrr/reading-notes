@@ -16,5 +16,7 @@
 ### This is an H3
 #### This is an H4
 
-_You can **combine** bold and italicized text._
+_You can **combine** bold and italicized text._ 
+Put an underscore _before and after_ selected text to italicize it.
+Put two asterisks **before and after** selected text to bold it.
 
