@@ -19,5 +19,8 @@ Usually, the text editors that come on your computer don't have many features.
 5. Brackets is a free text editor made by Adobe that is available across all platforms. Only supports HTML, CSS, and Javascript.
 6. Sublime Text 3 is a premium software that can be fully purchased for $70. Also has a free version.
 
+## Text Editors Vs. IDEs
 
+A text editor is a software that edits texts and manages files.
+An IDE (Integrated Development Enviroment) is a text editor, file manager, a compiler, and a debugger all in one.
 
