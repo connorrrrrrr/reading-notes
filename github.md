@@ -40,3 +40,4 @@ The local Git repository has three componets:
 ## File Status
 
 ![](https://github.com/connorrrrrrr/reading-notes/blob/main/lifecycleoffilestatus.png)
+To determine the state of files, use **git status**. To track 1 file, use **git add filename**. To track all files in a repository use, **git add ***. 
