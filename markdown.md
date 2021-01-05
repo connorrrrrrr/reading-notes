@@ -10,7 +10,11 @@
 2. Adding images
 3. Creating lists
 
+## Headings
 # This is an H1
 ## This is an H2
 ### This is an H3
 #### This is an H4
+
+_You can **combine** bold and italicized text._
+
