@@ -22,5 +22,6 @@ Usually, the text editors that come on your computer don't have many features.
 ## Text Editors Vs. IDEs
 
 A text editor is a software that edits texts and manages files.
+
 An IDE (Integrated Development Enviroment) is a text editor, file manager, a compiler, and a debugger all in one.
 
