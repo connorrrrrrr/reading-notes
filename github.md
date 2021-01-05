@@ -40,4 +40,15 @@ The local Git repository has three componets:
 ## File Status
 
 ![](https://github.com/connorrrrrrr/reading-notes/blob/main/lifecycleoffilestatus.png)
-To determine the state of files, use **git status**. To track 1 file, use **git add filename**. To track all files in a repository use, **git add ***. 
+To determine the state of files, use **git status**. To track 1 file, use **git add filename**. To track all files in a repository use, **git add asterik**.
+
+**git commit -a** commits a snapshot of all modifications to tracked files in the working directory.
+
+**git push origin main** pushes changes from the local "main" branch to the remote repository named "origin". For cloned repositories, Git will automatically give the name "origin" to the server from which you cloned and the name "main" to your local repository. These names can be changed by the user.
+
+## Stashing Changes
+
+When you are not ready to commit changes but do not want to lose them either, **git stash** is a great option. This temporarily removes changes and hides them, giving you a clean working directory. When you're ready to continue working on changes, simply use **git stash apply** to retrieve the hidden changes.
+### Remote Repositories
+
+To collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges.
