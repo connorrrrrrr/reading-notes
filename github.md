@@ -53,4 +53,4 @@ When you are not ready to commit changes but do not want to lose them either, **
 
 To collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges.
 
-<===[Home](README.md)
+[<===Home](README.md)
