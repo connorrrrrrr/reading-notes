@@ -25,3 +25,4 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
 - [GitHub](github.md)
+- [HTML](html.md)
