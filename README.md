@@ -26,3 +26,4 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Coders Computer](coders_computer.md)
 - [GitHub](github.md)
 - [HTML](html.md)
+- [Lab 3](extra.md)
