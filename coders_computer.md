@@ -43,3 +43,5 @@ Everything is a file. Common file extensions include:
 * file.png, .gif, .jpg - an image
 
 Linux is **CASE SENSITIVE**. The command, "ls -a" lists the contents of a directory, including hidden files. Linux is an extensionless sytem meaning files can have any extesnion they like or none at all.
+
+<===[Home](README.md)

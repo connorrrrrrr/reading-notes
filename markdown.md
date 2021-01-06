@@ -22,3 +22,5 @@ Put two asterisks **before and after** selected text to bold it.
 _You can **combine** bold and italicized text as well._ 
 
 You can create tables by dividing words with hyphens and seperating each colomn with pipes (|).
+
+<===[Home](README.md)
