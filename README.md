@@ -12,9 +12,9 @@ https://thumbs.dreamstime.com/b/professional-gamer-playing-online-games-tourname
 My Github Profile is at https://github.com/connorrrrrrr
 ### Growth Mindset
 How to stay in a growth mindset.
-- [x] Step outside of comfort zone.
-- [ ] Continue to attempt difficult tasks.
-- [ ] Stay **_persistant_** at the result of failure.
+- [x] Stepping outside of comfort zone.
+- [ ] Continuing to attempt difficult tasks.
+- [ ] Staying **_persistant_** at the result of failure.
 
 To maintain a growth mindset is to _always_ keep an **open mind**. It is very important to take all things into consideration during any process you go through. ***Whether you succeed or fail***, it is important to always _reflect_ on what you've learned depending on your outcome.
 
