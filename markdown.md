@@ -17,6 +17,10 @@ You control the display of the document; formatting words as bold or italic, add
 ### This is an H3
 #### This is an H4
 
+```text
+Three ticks(top left key beside 1) followed by text or language to preview things.
+```
+
 Put an underscore _before and after_ selected text to italicize it.
 
 If you'd like to quote someone, use the > character before the line
