@@ -58,4 +58,7 @@ HTML describes the structure of web pages and uses elements to do this. Each ele
     - The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading.
 * Figure
     - Can be used to contain any content that is referenced from the main flow of an article. The figure element should also contain a figcaption element which provides a text description for the content of the figure element.
-* <!-- -->
+* Meta
+    - the meta element lives inside the head element and contains information about that web page.
+* iframe
+    - an iframe is like a little window that has been cut into your page and in that window you can see another page. Needs width, height, and src.
