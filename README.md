@@ -28,3 +28,4 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [HTML](html.md)
 - [Lab 3](extra.md)
 - [CSS Intro](learningcss.md)
+- [Javascript Intro](javascript.md)
