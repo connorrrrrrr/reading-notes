@@ -44,3 +44,5 @@ Expressions rely on things called **operators**.
     buy = (5 > 3) && (2 < 4);
     ```
 To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. This is **function declaration**.
+
+[<===Home](README.md)

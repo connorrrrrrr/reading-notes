@@ -30,3 +30,5 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [CSS Intro](learningcss.md)
 - [Javascript Intro](javascript.md)
 - [How Computers Work](howcomputerswork.md)
+- [Javascript 2](javascript2.md)
+- [Javascript 3](javascript3.md)
