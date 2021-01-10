@@ -2,7 +2,7 @@
 Connor Curtis
 
 ## Description
-My CodeFellows reading notes.
+My CodeFellows reading notes for courses 102 and 201.
 
 ### About Me
 My name is Connor Curtis. I am 22 years old and from Arkansas. My main hobby is playing video games. My love for video games eventually taught me about what coding was and helped me develop the fascination I have for it.
@@ -21,7 +21,8 @@ To maintain a growth mindset is to _always_ keep an **open mind**. It is very im
 ![](https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg)
 https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 
-### Table of Contents
+### Code 102 Reading Notes (Table of Contents)
+
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
 - [GitHub](github.md)
@@ -32,3 +33,7 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [How Computers Work](howcomputerswork.md)
 - [Javascript 2](javascript2.md)
 - [Javascript 3](javascript3.md)
+
+### Code 201 Reading Notes (Table of Contents)
+
+
