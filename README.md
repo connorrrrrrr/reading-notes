@@ -36,4 +36,5 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 
 ### Code 201 Reading Notes (Table of Contents)
 
-
+- [Class 1](class-01.md)
+- 
