@@ -5,39 +5,39 @@
 
 1. H1, H2, H3, H4, H5, H6
   - six levels of headings
-2. '<p>'
+2. p
   - used for paragraphs
-3. '<b>'
+3. b
   - makes text bold
-4. '<i>'
+4. i
   - makes text italic
-5. '<sup>'
+5. sup
   - used to contain characters that should be superscript such as the suffixes of dates or mathematilcal concepts like raising a number to a power.
-6. '<sub>'
+6. sub
   - used to contain characters that should be subscript.
-7. '<br />'
+7. br /
   - break line tag, used for adding line breaks inside the middle of paragraphs.
-8. '<hr />'
+8. hr /
   - used to add a horizontal line to seperate sections
-9. '<strong>'
+9. strong
   - used similar to bold. Indicates that its content has strong importance.
-10. '<em>'
+10. em
   - indicates emphasis that subtly changes the meaning of a sentence. Used similarly to italic.
-11. '<blockquote>'
+11. blockquote
   - used for longer quotes that take up an entire paragraph.
-12. '<q>'
+12. q
   - used for shorter quotes that sit within a paragraph.
-13. '<abbr>'
+13. abbr
   - used for abbreviations or acronyms.
-14. '<cite>'
+14. cite
   - used for referencing a piece of work.
-15. '<dfn>'
+15. dfn
   - used for indicating the defining instance (the first time you explain some new terminology).
-16. '<address>'
+16. address
   - used to contain contact details for the author of the page.
-17. '<ins>' and '<del>'
+17. ins and del
   - the **ins** can be used to show content that has been inserted into a document. The **del** can show text that has been deleted from it. Ins underlines and del crosses out.
-18. '<s>'
+18. s
   - indicates something is no longer accurate or relevant (but that should't be deleted).
 
 ## CSS
