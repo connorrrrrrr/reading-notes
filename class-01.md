@@ -13,56 +13,56 @@ The attribute _name_ indicates what kind of extra information you are supplying 
 There are some characters that are used in and reserved by HTML code.
 
 1. Less than sign
-    - &lt;
-    - &#60;
+    - `&lt;`
+    - `&#60;`
 2. Greater than sign
-    - &gt;
-    - &amp;
+    - `&gt;`
+    - `&amp;`
 3. Ampersand
-    - &amp;
-    - &#38;
+    - `&amp;`
+    - `&#38;`
 4. Quotation mark
-    - &quot;
-    - &#34;
+    - `&quot;`
+    - `&#34;`
 5. Cent sign
-    - &cent;
-    - &#162;
+    - `&cent;`
+    - `&#162;`
 6. Pound sign (not #)
-    - &pound;
-    - &#163;
+    - `&pound;`
+    - `&#163;`
 7. Yen sign
-    - &yen;
-    - &#165;
+    - `&yen;`
+    - `&#165;`
 8. Euro sign
-    - &euro;
-    - &#8364;
+    - `&euro;`
+    - `&#8364;`
 9. Copyright symbol
-    - &copy;
-    - &#169;
+    - `&copy;`
+    - `&#169;`
 10. Registered trademark
-    - &reg;
-    - &#174;
+    - `&reg;`
+    - `&#174;`
 11. Trademark
-    - &trade;
-    - &#8482;
+    - `&trade;`
+    - `&#8482;`
 12. Left single quote
-    - &lsquo;
-    - &#8216;
+    - `&lsquo;`
+    - `&#8216;`
 13. Right single quote
-    - &rsquo;
-    - &#8217;
+    - `&rsquo;`
+    - `&#8217;`
 14. Left double quotes
-    - &ldquo;
-    - &#8220;
+    - `&ldquo;`
+    - `&#8220;`
 15. Right double quotes
-    - &rdquo;
-    - &#8221;
+    - `&rdquo;`
+    - `&#8221;`
 16. Multiplication sign
-    - &times;
-    - &#215;
+    - `&times;`
+    - `&#215;`
 17. Division Sign
-    - &divide;
-    - &#247;
+    - `&divide;`
+    - `&#247;`
 
 **Doctypes** tell browsers which version of HTML you are using. You can add comments to your code between <!-- and --> markers. The _id_ and _class_ attributes allow you to identify particular elements. The **div** and **span** elements allow you to group block level and inline elements together. Iframes cut windows into your web pages where other web pages can be displayed. The **meta** tag allows you to supply information about your webpage.
 
