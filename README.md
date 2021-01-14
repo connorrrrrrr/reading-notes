@@ -39,3 +39,4 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
 - [Class 3](class-03.md)
+- [Class 4](class-04.md)
