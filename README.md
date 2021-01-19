@@ -41,3 +41,4 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 3](class-03.md)
 - [Class 4](class-04.md)
 - [Class 5](class-05.md)
+- [Class 6](class-06.md)
