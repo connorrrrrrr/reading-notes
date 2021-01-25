@@ -12,3 +12,5 @@
 - Analytics tools such as Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there.
 - To put your site on the web, you will need to obtain a domain name and web hosting.
 - FTP programs allow you to transfer files from your local computer to your web server.
+
+[<===Home](README.md)
