@@ -48,3 +48,4 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 10](class-10.md)
 - [Class 11](class-11.md)
 - [Class 12](class-12.md)
+- [Class 13](class-13.md)
