@@ -18,3 +18,5 @@
 - `transition-delay` is a property used to set the delay in the transition.
 - to set multiple points at which an element should udergo a transition, use the @keyframes rule. The @keyframes rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
 - once the keyframes for an animation have been declared they need to be assigned to an element. To do so, the `animation-name` property is used with the animation name, identified from the `@keyframes` rule.
+
+[<===Home](README.md)
