@@ -21,7 +21,7 @@ To maintain a growth mindset is to _always_ keep an **open mind**. It is very im
 ![](https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg)
 https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 
-### Code 102 Reading Notes (Table of Contents)
+### Code 102 Reading Notes
 
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
@@ -34,7 +34,7 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Javascript 2](javascript2.md)
 - [Javascript 3](javascript3.md)
 
-### Code 201 Reading Notes (Table of Contents)
+### Code 201 Reading Notes
 
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
@@ -50,3 +50,6 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 12](class-12.md)
 - [Class 13](class-13.md)
 - [Class 14](class-14.md)
+
+### Code 301 Reading Notes
+
