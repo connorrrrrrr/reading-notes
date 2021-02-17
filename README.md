@@ -50,3 +50,9 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 12](class-12.md)
 - [Class 13](class-13.md)
 - [Class 14](class-14.md)
+
+### Code 301 Reading Notes (Table of Contents)
+
+- [Class 1 - RWD & Floats](rwd-and-floats.md)
+- [Class 2 - ]
+- [Class 3 - Flexbox & Templating](flexbox-and-templating.md)
