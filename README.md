@@ -2,7 +2,7 @@
 Connor Curtis
 
 ## Description
-My CodeFellows reading notes for courses 102 and 201.
+My CodeFellows reading notes for courses 102,201,301, and 401.
 
 ### About Me
 My name is Connor Curtis. I am 22 years old and from Arkansas. My main hobby is playing video games. My love for video games eventually taught me about what coding was and helped me develop the fascination I have for it.
@@ -12,16 +12,18 @@ https://thumbs.dreamstime.com/b/professional-gamer-playing-online-games-tourname
 My Github Profile is at https://github.com/connorrrrrrr
 ### Growth Mindset
 How to stay in a growth mindset.
-- [x] Stepping outside of comfort zone.
-- [ ] Continuing to attempt difficult tasks.
-- [ ] Staying **_persistant_** at the result of failure.
+- Stepping outside of comfort zone.
+- Continuing to attempt difficult tasks.
+- Staying **_persistant_** at the result of failure.
 
 To maintain a growth mindset is to _always_ keep an **open mind**. It is very important to take all things into consideration during any process you go through. ***Whether you succeed or fail***, it is important to always _reflect_ on what you've learned depending on your outcome.
 
 ![](https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg)
 https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 
-### Code 102 Reading Notes
+# Reading Notes
+
+## Code 102 - Intro to Software Development
 
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
@@ -34,7 +36,7 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Javascript 2](javascript2.md)
 - [Javascript 3](javascript3.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
@@ -51,8 +53,12 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 13](class-13.md)
 - [Class 14](class-14.md)
 
-### Code 301 Reading Notes (Table of Contents)
+## Code 301 - Intermediate Software Development
 
 - [Class 1 - RWD & Floats](rwd-and-floats.md)
 - [Class 2 - ]
 - [Class 3 - Flexbox & Templating](flexbox-and-templating.md)
+- [Class 4 - ]
+- [Class 5 - Heroku Deployment]()
+
+## Code 401 - Advanced Software Development
