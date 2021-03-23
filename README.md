@@ -56,7 +56,7 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 ## Code 301 - Intermediate Software Development
 
 - [Class 1 - Intro to React](intro-to-react.md)
-- [Class 2 - ]
+- [Class 2 - State and Props](state-and-props.md)
 - [Class 3 - Flexbox & Templating](flexbox-and-templating.md)
 - [Class 4 - ]
 - [Class 5 - Heroku Deployment]()
