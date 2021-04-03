@@ -59,6 +59,6 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 2 - State and Props](state-and-props.md)
 - [Class 3 - Passing Functions as Props](passing-functions-as-props.md)
 - [Class 4 - React and Forms](react-and-forms.md)
-- [Class 5 - Heroku Deployment]()
+- [Class 5 - Thinking in React](thinking-in-react.md)
 
 ## Code 401 - Advanced Software Development
