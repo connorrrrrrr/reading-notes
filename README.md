@@ -60,5 +60,6 @@ https://www.thesynergist.org/wp-content/uploads/2014/09/469564565.jpg
 - [Class 3 - Passing Functions as Props](passing-functions-as-props.md)
 - [Class 4 - React and Forms](react-and-forms.md)
 - [Class 5 - Thinking in React](thinking-in-react.md)
+- [Class 6 - NODE.JS](node.md)
 
 ## Code 401 - Advanced Software Development
